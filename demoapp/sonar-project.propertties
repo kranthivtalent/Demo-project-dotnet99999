@@ -1,3 +1,3 @@
-sonar.projectKey=Boardgame
-sonar.projectName=Boardgame
-sonar.java.binaries=.
+sonar.projectKey=Demo-project-dotnet99999
+sonar.projectName=Demo-project-dotnet99999
+sonar.dotnet.binaries=.
