@@ -1,3 +1,4 @@
 sonar.projectKey=Demo-project-dotnet99999
 sonar.projectName=Demo-project-dotnet99999
-sonar.dotnet.binaries=.
+#sonar.dotnet.binaries=.
+sonar.sources=.
